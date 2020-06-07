@@ -17,6 +17,7 @@ end
 
 def self.prints_all
   @@all.each do |name|
+    puts name
   end
 end
 
