@@ -15,5 +15,10 @@ def self.clear_all
   @@all.clear
 end
 
+def self.prints_all
+  @@all.clear
+end
+
+
 
 end
