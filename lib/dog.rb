@@ -16,7 +16,7 @@ def self.clear_all
 end
 
 def self.prints_all
-  @@all.clear
+  @@all.eac h do |name|
 end
 
 
