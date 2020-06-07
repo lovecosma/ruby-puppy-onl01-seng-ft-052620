@@ -23,7 +23,7 @@ def self.prints_all
 end
 
 def save
-    @@all << self.name
+    @@all << self
 end
 
 def name
