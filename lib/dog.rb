@@ -26,8 +26,8 @@ def save
     @@all << self.name
 end
 
-def name 
+def name
   @name
-end 
+end
 
 end
