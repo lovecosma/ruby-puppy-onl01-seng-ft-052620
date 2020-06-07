@@ -7,6 +7,9 @@ def initialize(name)
   @@all << self.name
 end
 
+def self.all
+  @@all
+end
 
 
 end
