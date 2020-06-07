@@ -17,6 +17,7 @@ end
 
 def self.prints_all
   @@all.eac h do |name|
+  end 
 end
 
 
