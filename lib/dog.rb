@@ -16,8 +16,8 @@ def self.clear_all
 end
 
 def self.prints_all
-  @@all.eac h do |name|
-  end 
+  @@all.each do |name|
+  end
 end
 
 
