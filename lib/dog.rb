@@ -21,6 +21,8 @@ def self.prints_all
   end
 end
 
-
+def save
+  
+end 
 
 end
