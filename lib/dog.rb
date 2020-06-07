@@ -11,5 +11,9 @@ def self.all
   @@all
 end
 
+def self.cleasr_all
+  @@all
+end
+
 
 end
